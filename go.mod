@@ -16,6 +16,7 @@ require (
 	github.com/alecthomas/assert v0.0.0-20170929043011-405dbfeb8e38
 	github.com/appleboy/easyssh-proxy v1.3.9
 	github.com/asaskevich/EventBus v0.0.0-20200907212545-49d423059eef
+	github.com/aws/aws-sdk-go v1.42.24 // indirect
 	github.com/blevesearch/bleve v1.0.14
 	github.com/cavaliercoder/grab v1.0.1-0.20201108051000-98a5bfe305ec
 	github.com/cheggaaa/pb/v3 v3.0.8
