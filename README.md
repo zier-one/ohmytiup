@@ -28,7 +28,7 @@ TiUP Cluster 用于在生产上部署 TiDB 集群，提供了非常丰富的功�
   - [销毁集群](https://github.com/luyomo/tisample#%E9%94%80%E6%AF%81%E9%9B%86%E7%BE%A4)
 
 #### 设计架构
-![alt text](doc/png/oh-my-tiup.png)
+![alt text](https://github.com/luyomo/tisample/blob/main/doc/png/oh-my-tiup.png)
 
 ##### 部署集群
 在部署集群时，cloud-cluster 不需要用户指定要部署的目标主机 IP，而是用户指定要部署的目标主机机型，Region、AZ 等信息，cloud-cluster 可以自动向 AWS 申请虚机并部署 TiDB 集群。
